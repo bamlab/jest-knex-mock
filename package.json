@@ -1,0 +1,7 @@
+{
+  "name": "@bam.tech/jest-knex-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas Pucci",
+  "license": "MIT"
+}

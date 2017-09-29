@@ -1,0 +1,1 @@
+# Mock Knex with Jest
